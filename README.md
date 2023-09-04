@@ -1,6 +1,6 @@
 # OpenInterpreter
 
-Official Githib : https://github.com/KillianLucas/open-interpreter
+Inspired by : https://github.com/KillianLucas/open-interpreter
 
 1.
 ![Unlocking-the-Power-of-Open-Interpreter_page-0001](https://github.com/Rakib-data-scientist/OpenInterpreter/assets/137823730/c8208eaf-cef5-43b7-85d5-e3f1f1e5c570)
